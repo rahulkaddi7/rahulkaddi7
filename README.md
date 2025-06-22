@@ -1,6 +1,18 @@
-# Hi there, I'm Rahul Kaddi 👋
-<img src="Assets/coolimg.gif" alt="Animated Banner" width="1200" height="400"/>
+<h1 align="center">Hi there, I'm Rahul Kaddi 👋</h1>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Assets/coolimg.gif" width="300" alt="Animated GIF of developer" style="border-radius: 10px;" />
+    </td>
+    <td style="padding-left: 40px; vertical-align: middle;">
+      <h3>Hey there,</h3>
+      <p>🚀 I'm a <strong>full-stack web developer</strong> and <strong>machine learning enthusiast</strong>.</p>
+      <p>🛠️ Working on projects like <strong>WanderLust</strong> and <strong>Credit Card Predictor</strong>.</p>
+      <p>🌱 Currently learning <strong>advanced ML</strong> and <strong>backend architecture</strong>.</p>
+    </td>
+  </tr>
+</table>
 
 
 ## 💻 Tech Stack
@@ -41,9 +53,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkaddi7&layout=compact&theme=radical&hide_title=true&card_width=250" width="250" height="150" alt="Most Used Languages" style="margin-right: 10px;"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rahulkaddi7&show_icons=true&theme=radical&hide_title=true&card_width=300" width="300" height="150" alt="Rahul's GitHub stats"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkaddi7&layout=compact&theme=radical&hide_title=true&card_width=300" width="350" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rahulkaddi7&show_icons=true&theme=radical&hide_title=true" width="430" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 <br clear="both"/>
 
 ## 🌐 Connect with me

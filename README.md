@@ -1,5 +1,5 @@
 # Hi there, I'm Rahul Kaddi 👋
-<img src="assets/coolimg.gif" alt="Animated Banner" width="100%" />
+<img src="Assets/coolimg.gif" alt="Animated Banner" width="100%" />
 
 
 
